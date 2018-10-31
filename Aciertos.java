@@ -17,7 +17,7 @@ public class Aciertos {
             }
             cont++;
         } while (n != x);
-        System.out.print("Exelente!!! Haz acertado , Número de intentos: "+cont );
+        System.out.print("Exelente!!!! Haz acertado , Número de intentos: "+cont );
         sc.close();
     }
 }
