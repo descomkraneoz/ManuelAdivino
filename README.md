@@ -1,3 +1,2 @@
-# monolitico
-Ejercicio para convertir cÃ³digo monolÃ­tico en Java, en varios mÃ©todos, mediante el uso de refactorizaciÃ³n.
-
+# Adivina el Número
+El proyecto plantea un juego: adivinar el número que genera de manera aleatoria el programa. Primero se genera el número aleatorio, a continuación se pide al usuario que introduzca un número entero. Si el valor es menor o mayor del número generado, se proporciona un texto orientativo y continua esperando un nuevo número. En caso de acierto se anuncia el éxito, y la aplicación finaliza.
